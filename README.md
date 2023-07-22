@@ -1,5 +1,5 @@
 # Portfolio-Website
- This Portfolio Website is designed for the IBM Front-End Developer Internship. 
+ This Portfolio Website is designed for the  EDUNET IBM Front-End Developer Internship. 
  # PORTFOLIO
 
 ## Table of Contents
